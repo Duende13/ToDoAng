@@ -1,6 +1,7 @@
 # FirstAngularApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
+It's a simple application as example of what can be done in a simple way with Angular.
 
 ## Development server
 
